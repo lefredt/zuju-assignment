@@ -2,14 +2,14 @@
 
 ### Pre-Requisite
 
-MySQL v8.0.31
+MySQL v8.0.31  
 NodeJS v18.12.1
 
 ### Database
 
 #### Config
 
-Configurations can be set in `.env` file
+Configurations can be set in `.env` file  
 Current Settings:
 
 ```
